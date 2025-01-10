@@ -9,6 +9,10 @@
         [
             "umqtt.robust",
             "latest"
+        ],
+        [
+            "umqtt.simple",
+            "latest"
         ]
     ],
     "version": "0.1"
