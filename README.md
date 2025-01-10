@@ -5,7 +5,7 @@ A lightweight implementation of Zycelium Agent in MicroPython.
 ## Installation
 
 1. Install MicroPython on your device
-2. Copy `uagent.py` to your device
+2. Run `micropython -m mip install github:zycelium/uagent`
 3. `import uagent` in your code and create a Zycelium Agent
 
 ## Example: ESP32 / LED Toggle

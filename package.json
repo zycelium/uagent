@@ -1,0 +1,9 @@
+{
+    "urls": [
+        [
+            "uagent.py",
+            "github:zycelium/uagent/uagent.py"
+        ]
+    ],
+    "version": "0.1"
+}
