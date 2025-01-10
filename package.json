@@ -5,5 +5,11 @@
             "github:zycelium/uagent/uagent.py"
         ]
     ],
+    "deps": [
+        [
+            "umqtt.robust",
+            "latest"
+        ]
+    ],
     "version": "0.1"
 }
